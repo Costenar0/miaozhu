@@ -1,0 +1,43 @@
+============================================================
+      RELATÓRIO AUTOMÁTICO DE ANÁLISE DE DADOS (TCC)
+============================================================
+
+1. IMPACTO DA REN 1000 (ANÁLISE TEMPORAL)
+----------------------------------------
+COMPARATIVO DEC (Duração Média das Interrupções):
+   - Média Pré-REN 1000: 1.52 horas
+   - Média Pós-REN 1000: 1.13 horas
+   - Variação: -25.85%  <-- O QUE ISSO SIGNIFICA?
+     (O DEC caiu, indicando melhora na qualidade técnica.)
+
+COMPARATIVO FINANCEIRO (Compensações Pagas):
+   - Média Pré-REN 1000: R$ 7,582,427.34
+   - Média Pós-REN 1000: R$ 9,701,757.59
+   - Variação: +27.95% <-- IMPACTO NO CAIXA
+
+VALIDAÇÃO ESTATÍSTICA (Teste T de Student):
+   - A mudança no DEC foi real? p-valor = 0.00472
+     ✅ SIM. A mudança é estatisticamente significativa (p < 0.05).
+   - A mudança nas Compensações foi real? p-valor = 0.20645
+     ❌ NÃO. Não há diferença estatística significativa.
+
+
+2. PERFIL DOS GRUPOS (CLUSTERS IDENTIFICADOS)
+----------------------------------------
+A Inteligência Artificial dividiu as empresas em 3 grupos baseados em eficiência:
+
+[CLUSTER 0]:
+   - DEC Médio: 0.85 horas
+   - Compensação Média: R$ 3,153,987.15
+   >> GRUPO REFERÊNCIA (Alta Qualidade / Baixo Custo)
+
+[CLUSTER 2]:
+   - DEC Médio: 1.17 horas
+   - Compensação Média: R$ 58,830,434.22
+   >> GRUPO COM DESAFIOS FINANCEIROS
+
+[CLUSTER 1]:
+   - DEC Médio: 2.82 horas
+   - Compensação Média: R$ 2,163,065.79
+   >> GRUPO COM PROBLEMAS TÉCNICOS (Qualidade ruim)
+
