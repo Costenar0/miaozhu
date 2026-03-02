@@ -1,0 +1,15 @@
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy[asyncio]
+aiosqlite
+pydantic
+pydantic-settings
+python-multipart
+jinja2
+openai
+python-docx
+reportlab
+httpx
+playwright
+mistletoe
+Pillow

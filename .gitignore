@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Certificates
+backend/certs/
+
+# Data (SQLite DB + exports)
+data/
+
+# Pipeline & deploy
+backend/pipeline.yaml
+backend/deploy.sh
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+
+# Logs directory
+logs/
